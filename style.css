@@ -11,7 +11,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #fae9fb;
+  background: #F5F6F7;
   position: relative;
 }
 body::before {
@@ -161,5 +161,6 @@ body::before {
     margin-left: 30px;
   }
 }
+
 
 
