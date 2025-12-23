@@ -21,7 +21,7 @@ body::before {
   width: 100%;
   left: 0;
   top: 0;
-  background: #ba24c2;
+  background: #FF1000;
   clip-path: polygon(86% 0, 100% 0, 100% 100%, 60% 100%);
 }
 .container {
@@ -161,3 +161,4 @@ body::before {
     margin-left: 30px;
   }
 }
+
